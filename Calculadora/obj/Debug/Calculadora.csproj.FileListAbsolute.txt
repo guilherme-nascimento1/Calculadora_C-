@@ -1,0 +1,11 @@
+E:\Guilherme\Dev\VisualStudio\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Guilherme\Dev\VisualStudio\Calculadora\bin\Debug\Calculadora.exe
+E:\Guilherme\Dev\VisualStudio\Calculadora\bin\Debug\Calculadora.pdb
+E:\Guilherme\Dev\VisualStudio\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+E:\Guilherme\Dev\VisualStudio\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+E:\Guilherme\Dev\VisualStudio\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\Guilherme\Dev\VisualStudio\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Guilherme\Dev\VisualStudio\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+E:\Guilherme\Dev\VisualStudio\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\Guilherme\Dev\VisualStudio\Calculadora\obj\Debug\Calculadora.exe
+E:\Guilherme\Dev\VisualStudio\Calculadora\obj\Debug\Calculadora.pdb
