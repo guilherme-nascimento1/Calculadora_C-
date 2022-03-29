@@ -1,6 +1,8 @@
 # Calculadora_Csharp
 
-## Olá Devs! Sou o Guilherme, eu me Desafiei para criar uma calculadora funcional para aprendizado constante na linguagem c#. Realizei minha primeira calculadora na linguagem. 
+## Olá Devs! 
+
+Sou o Guilherme, eu me Desafiei para criar uma calculadora funcional para aprendizado constante na linguagem c#. Realizei minha primeira calculadora na linguagem. 
 
 
 ## Aqui está a carinha da calculadora.
